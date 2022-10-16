@@ -4,13 +4,14 @@
 
 早日解封
 
+## Our Logo
+![7UBHEXL13W FVA@ 53VBF4U](https://user-images.githubusercontent.com/78037670/196022965-33ebb7a2-1fc5-4ec4-ae77-d2c813817782.jpg)
+
+
 ## 人员信息
 
-| 姓名 |
-| --- |
-| 孙奇 |
-| 张朝阳 |
-| 王舒晨 |
+| 姓名 | 孙奇 | 张朝阳 | 王舒晨 |
+
 
 ## 人员特长
 
