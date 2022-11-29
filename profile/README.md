@@ -12,6 +12,19 @@
 
 | 姓名 | 孙奇 | 张朝阳 | 王舒晨 |
 
+**11.23 Updated**
+
+## Wireframe
+
+![image](https://user-images.githubusercontent.com/78037670/204416299-d2c67d5d-3893-4c3a-9a4e-ba3d1be6aa4e.png)
+
+
+## Flowchart
+
+![flowchart drawio (1)](https://user-images.githubusercontent.com/78037670/204416329-ae484c06-d95a-4412-84da-f18e946fe559.png)
+
+
+---
 
 ## 人员特长
 
